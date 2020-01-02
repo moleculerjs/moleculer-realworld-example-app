@@ -28,7 +28,7 @@
   "dependencies": {
     "bcrypt": "1.0.3",
     "jsonwebtoken": "8.1.0",
-    "lodash": "4.17.4",
+    "lodash": "4.17.15",
     "moleculer": "^0.11.0",
     "moleculer-db": "0.7.0",
     "moleculer-db-adapter-mongo": "0.1.6",
